@@ -19,7 +19,6 @@ android {
         debug {
             minifyEnabled false
             versionNameSuffix "-T"
-
         }
         release {
             minifyEnabled false
