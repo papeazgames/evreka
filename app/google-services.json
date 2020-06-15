@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1028730075205",
+    "firebase_url": "https://evreka-280211.firebaseio.com",
+    "project_id": "evreka-280211",
+    "storage_bucket": "evreka-280211.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028730075205:android:724aaf5b6d8f67f1974b2c",
+        "android_client_info": {
+          "package_name": "com.sarslan.demos.evreka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028730075205-i70gdalh1rn0amsufqhsiodpgjr42ver.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiJuuwnyN0gBYDPoB8QM4xmc_UdcAtJ28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028730075205-i70gdalh1rn0amsufqhsiodpgjr42ver.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
